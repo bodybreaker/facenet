@@ -1,0 +1,7 @@
+arguments: ./src/align/align_dataset_mtcnn.py ./data/images/test_raw ./data/images/test_aligned --image_size 160
+--------------------
+tensorflow version: 2.4.1
+--------------------
+git hash: b'ebb5799bafb0644327034f87724661404f264963'
+--------------------
+b'diff --git a/data/images/Anthony_Hopkins_0001.jpg b/data/images/Anthony_Hopkins_0001.jpg\ndeleted file mode 100644\nindex 3d65e04..0000000\nBinary files a/data/images/Anthony_Hopkins_0001.jpg and /dev/null differ\ndiff --git a/data/images/Anthony_Hopkins_0002.jpg b/data/images/Anthony_Hopkins_0002.jpg\ndeleted file mode 100644\nindex 55844e5..0000000\nBinary files a/data/images/Anthony_Hopkins_0002.jpg and /dev/null differ'
